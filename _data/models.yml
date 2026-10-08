@@ -1,0 +1,22 @@
+# Models shown in the "Models" section of the homepage.
+# Groups and the models within each group are listed newest first.
+# A model's name links to its first entry in `links`.
+
+- org: Tencent Hunyuan
+  role: Coding Agent Evaluation
+  models:
+    - name: Hy4 preview
+      date: 2026.08
+      links:
+        - label: Blog
+          url: https://hy.tencent.com/research/hy4-preview
+    - name: Hy3
+      date: 2026.07
+      links:
+        - label: Blog
+          url: https://hy.tencent.com/research/hy3
+    - name: Hy3 preview
+      date: 2026.04
+      links:
+        - label: Blog
+          url: https://hy.tencent.com/research/hy3-preview?langVersion=en
